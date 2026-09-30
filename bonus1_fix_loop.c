@@ -6,6 +6,6 @@
 int main(void) {
     signed int i;
     for (i = 10; i >= 0; i--) {
-        printf("%u\n", i);
+        printf("%d\n", i);
     }
 }
